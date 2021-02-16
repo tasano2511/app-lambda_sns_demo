@@ -1,7 +1,5 @@
 # lambda_sns_demo
 
-# lambda_xray_with_deps_demo
-
 ## Table of Contents
 - [lambda function - lambda_handler](#lambda-function)
 - [Execution Result](#execution-result)
