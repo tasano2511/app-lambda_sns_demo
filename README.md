@@ -3,12 +3,12 @@
 # lambda_xray_with_deps_demo
 
 ## Table of Contents
-- [index.js lambda function](#lambda-function)
-- [Role Permission](#execution-result)
-- [XRay - Service Map](#cloudwatch-log) 
+- [lambda function - lambda_handler](#lambda-function)
+- [Execution Result](#execution-result)
+- [CloudWatch Log](#cloudwatch-log) 
 
 ## lambda function
-
+![image](https://user-images.githubusercontent.com/32722949/108121823-626f2a80-7071-11eb-8030-27688f01c1e6.png)
 
 ## execution result
 ![image](https://user-images.githubusercontent.com/32722949/108121913-7e72cc00-7071-11eb-9744-e706a62cd876.png)
