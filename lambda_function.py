@@ -6,7 +6,7 @@ import json
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
-# Initialize SNS client for Ireland region
+# Initialize SNS client for US-East-1 region
 session = boto3.Session(
     region_name="us-east-1"
 )
