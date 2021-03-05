@@ -1,4 +1,5 @@
 # lambda_sns_demo
+This project is to show the lambda function that uses SNS publish method to send out a text message. Execution result and CloudWatch log are covered as well.
 
 ## Table of Contents
 - [lambda function - lambda_handler](#lambda-function)
